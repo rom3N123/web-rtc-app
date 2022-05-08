@@ -1,0 +1,20 @@
+.video_local {
+	width: 100%;
+	height: 100%;
+}
+
+.video_remote {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 300px;
+	height: 300px;
+	border: 10px solid red;
+}
+
+.container {
+	height: 100vh;
+	width: 100vw;
+
+	background-color: rgba(0, 0, 0, 0.8);
+}
